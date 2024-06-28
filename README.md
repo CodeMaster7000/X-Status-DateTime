@@ -1,4 +1,4 @@
-# X Status DateTime
+# X Status (Date and Time of Posting)
 
 ## About
 
