@@ -8,7 +8,7 @@ NOTE: The `created_at` attribute of the Status object provides a datetime object
 
 ## Instructions for Usage
 
-Firstly, replace "ENTER ID HERE" (line 14) with the ID of the Twitter status. Then, download the code.
+Firstly, replace "ENTER STATUS ID HERE" (line 14) with the ID of the Twitter status. Then, download the code.
 
 CLI:
 
